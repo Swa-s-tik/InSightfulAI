@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+pdfplumber
+sentence-transformers
+charset-normalizer
