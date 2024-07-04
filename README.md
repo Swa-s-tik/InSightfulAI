@@ -22,6 +22,7 @@ One of the main challenges was optimizing the performance of multiple AI models 
 One feature I'm particularly proud of is the seamless integration of multiple AI capabilities into a single, intuitive interface. The ability to switch between question answering, summarization, sentiment analysis, and other features without changing contexts provides a smooth, efficient workflow for users.
 
 ## What we learned
+While the focus was initially on the AI components, I found myself diving into the world of UX design. Understanding how journalists and content creators work and tailoring the interface to their needs became a crucial part of the project. This unexpected foray into UX design has been incredibly rewarding and has broadened my skill set in ways I hadn't anticipated.
 
 ## What's next for InSightful AI
 While InSightful AI is already a powerful tool, the journey is far from over. Future enhancements could include:
