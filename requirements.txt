@@ -1,7 +1,7 @@
 streamlit
 transformers
 torch
-pdfplumber
+PyMuPDF
 sentence-transformers
 charset-normalizer
 fitz
