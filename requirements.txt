@@ -1,9 +1,6 @@
+charset-normalizer
 streamlit
 transformers
 torch
-PyMuPDF
+pdfplumber
 sentence-transformers
-charset-normalizer
-fitz
-frontend
-starlette
